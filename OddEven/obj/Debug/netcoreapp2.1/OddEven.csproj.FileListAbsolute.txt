@@ -1,0 +1,12 @@
+C:\Dev\OddEven\OddEven\bin\Debug\netcoreapp2.1\OddEven.deps.json
+C:\Dev\OddEven\OddEven\bin\Debug\netcoreapp2.1\OddEven.runtimeconfig.json
+C:\Dev\OddEven\OddEven\bin\Debug\netcoreapp2.1\OddEven.runtimeconfig.dev.json
+C:\Dev\OddEven\OddEven\bin\Debug\netcoreapp2.1\OddEven.dll
+C:\Dev\OddEven\OddEven\bin\Debug\netcoreapp2.1\OddEven.pdb
+C:\Dev\OddEven\OddEven\obj\Debug\netcoreapp2.1\OddEven.csproj.AssemblyReference.cache
+C:\Dev\OddEven\OddEven\obj\Debug\netcoreapp2.1\OddEven.AssemblyInfoInputs.cache
+C:\Dev\OddEven\OddEven\obj\Debug\netcoreapp2.1\OddEven.AssemblyInfo.cs
+C:\Dev\OddEven\OddEven\obj\Debug\netcoreapp2.1\OddEven.csproj.CoreCompileInputs.cache
+C:\Dev\OddEven\OddEven\obj\Debug\netcoreapp2.1\OddEven.dll
+C:\Dev\OddEven\OddEven\obj\Debug\netcoreapp2.1\OddEven.pdb
+C:\Dev\OddEven\OddEven\obj\Debug\netcoreapp2.1\OddEven.genruntimeconfig.cache
